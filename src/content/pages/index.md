@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Blog34
 tagline: It's a blog
-featuredImage: /assets/8bitheartupscaled.png
+featuredImage: /assets/8bitheart.png
 cta:
   ctaText: Know more
   ctaLink: /about
