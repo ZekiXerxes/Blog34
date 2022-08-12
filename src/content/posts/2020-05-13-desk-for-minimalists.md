@@ -6,7 +6,11 @@ date: 2020-05-13 12:46
 description: "Story of TSF Launcher "
 featuredImage: ""
 ---
-![](/assets/banner.jpg)
+![TSF (The Special Forces) logo](/assets/tsflogo.png "TSF (The Special Forces) logo")
+
+
+
+![TSF (The Special Forces) banner](/assets/banner.jpg "TSF (The Special Forces) banner")
 
 ##### On 15th September 2011
 
@@ -35,6 +39,12 @@ And shared their website links\
 (TSF Weibo)：         http://weibo.com/tsfui2
 (TSF Blog)：            http://www.tsfui.com/blog/
 
-##### 28th February 2012
+##### On 28th February 2012
 
 ###### They announced that Official version will be launched on the evening of February 29th.
+
+
+
+##### On 29th February 2012
+
+###### First Version V1.0.0 Released
