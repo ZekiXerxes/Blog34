@@ -10,6 +10,8 @@ featuredImage: /assets/show01.jpg
 
 
 
+
+
 ![TSF (The Special Forces) banner](/assets/banner.jpg "TSF (The Special Forces) banner")
 
 #### Timeline
@@ -67,4 +69,16 @@ This feature helped to switch pages at a really fast speed. It saves time once y
 
 
 
-![](/assets/3d-widget.png)
+![3D Widgets](/assets/3d-widget.png "3D Widgets")
+
+When you're in rush you can just tap once to open the folder, like any other normal folder. But when you're not busy you can drag apps like a snake for fun.
+
+
+
+![Pop up menu](/assets/pop-up-menu.png "Pop up menu")
+
+It had a lasso tool for selection.
+
+![Quick launch bar and Store](/assets/quick-launch-bar-and-store.png "Quick launch bar and Store")
+
+https://www.youtube.com/watch?v=SYzYQ6YtepU
